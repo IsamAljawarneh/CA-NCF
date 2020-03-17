@@ -1,4 +1,4 @@
 # CA-NCF
 
-CA-NCF source codes will appear here after the frmal publication of the paper.
+CA-NCF is a an algorithm that is a hybridization between a prefiltering context incorporation approach known as [item splitting] (https://dl.acm.org/citation.cfm?id=2579997) 
 
