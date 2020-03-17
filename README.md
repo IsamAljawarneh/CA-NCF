@@ -4,5 +4,6 @@ CA-NCF is a an algorithm that is a hybridization between a prefiltering context 
 
 to run this example you need to do the following:
 
-* install [AnalyticsZoo](https://analytics-zoo.github.io/0.2.0/#PythonUserGuide/install/) BigDL
+* **install** [AnalyticsZoo](https://analytics-zoo.github.io/0.2.0/#PythonUserGuide/install/) BigDL
+* **Run** with [jupyter](https://analytics-zoo.github.io/0.2.0/#PythonUserGuide/run/#run-with-jupyter-notebook)
 
