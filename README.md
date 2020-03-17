@@ -6,4 +6,4 @@ to run this example you need to do the following:
 
 * **install** [AnalyticsZoo](https://analytics-zoo.github.io/0.2.0/#PythonUserGuide/install/) BigDL
 * **Run** with [jupyter](https://analytics-zoo.github.io/0.2.0/#PythonUserGuide/run/#run-with-jupyter-notebook)
-* **make** a folder in the root directory once you login to jupyter then create a new folder 'datasets' then an inner folder for the corresponding example. for example 'tripAdvisor' and upload the corresponding dataset to it.
+* **make** a folder in the root directory once you login to jupyter then create a new folder `datasets` then an inner folder for the corresponding example. for example `tripAdvisor` and upload the corresponding dataset to it.
