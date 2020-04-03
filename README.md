@@ -10,4 +10,4 @@ to run this example you need to do the following:
 
 # publications
 [A Pre-Filtering Approach for Incorporating Contextual Information Into Deep Learning Based Recommender Systems][1]
-[1](https://ieeexplore.ieee.org/abstract/document/9004579)
+[1]: https://ieeexplore.ieee.org/abstract/document/9004579
