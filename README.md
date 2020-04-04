@@ -9,7 +9,7 @@ to run this example you need to do the following:
 * **make** a folder in the root directory once you login to jupyter then create a new folder `datasets` then an inner folder for the corresponding example. for example `tripAdvisor` and upload the corresponding dataset to it.
 
 # publications
-if you want to use this code in your research, please cite our article where this work came to appearance for the first time:
+
 
 [A Pre-Filtering Approach for Incorporating Contextual Information Into Deep Learning Based Recommender Systems][1]
 
